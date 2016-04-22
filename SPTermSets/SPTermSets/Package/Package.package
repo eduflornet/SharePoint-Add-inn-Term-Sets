@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package dslVersion="1.0.0.0" 
+        Id="0a534495-25b2-4ca6-a42b-d174fc2a5a8d" 
+        solutionId="0a534495-25b2-4ca6-a42b-d174fc2a5a8d" 
+        xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel" 
+        name="SPTermSets"
+        sharePointProductVersion="16.0">
+  <features>
+        <featureReference itemId="931e267e-8672-4f5f-af32-904f2c1870c4" />
+  </features>
+</package>
